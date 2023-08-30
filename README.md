@@ -1,8 +1,8 @@
 # 豆腐工艺
 这是由海曼汉化改版+配方的豆腐工艺
+<br/>后来由[0XPYEX0](https://github.com/0XPYEX0)修改后 又被我拖去更新依赖后的版本
 <br/>经过改版后的豆腐工艺添加了很多富有中国特色的小吃
-<br/>目前仅支持Slimefun RC-27之前的版本
-<br/>（计划）支持Slimefun RC-27
+<br/>支持最新快照的Slimefun
 
 
 
